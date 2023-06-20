@@ -1,0 +1,7 @@
+com\cts\pensionmanagementsystem\pensionerdetail\controller\PensionerDetailController.class
+com\cts\pensionmanagementsystem\pensionerdetail\entity\BankDetail.class
+com\cts\pensionmanagementsystem\pensionerdetail\entity\PensionerDetail.class
+com\cts\pensionmanagementsystem\pensionerdetail\service\PensionerDetailService.class
+com\cts\pensionmanagementsystem\pensionerdetail\client\AuthorizationClient.class
+com\cts\pensionmanagementsystem\pensionerdetail\PensionerDetailApplication.class
+com\cts\pensionmanagementsystem\pensionerdetail\repository\PensionerDetailRepository.class
